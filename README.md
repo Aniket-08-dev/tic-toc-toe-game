@@ -27,6 +27,9 @@ A simple **Tic Tac Toe game** built using **HTML, CSS, and JavaScript**. Play ag
 2. Open `index.html` in your browser.
 3. Play Tic Tac Toe with a friend!
 
+## 🚀 Live Demo  
+👉 [Play Tic Tac Toe Here](https://ornate-gelato-4d115b.netlify.app/)  
+
 ## 📂 Project Structure
 
 ```
