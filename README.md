@@ -16,9 +16,6 @@ A simple **Tic Tac Toe game** built using **HTML, CSS, and JavaScript**. Play ag
 * **CSS3** – Styling and layout
 * **JavaScript (ES6)** – Game logic and interactivity
 
-## 📸 Screenshots
-
-(Add a screenshot of your game here)
 
 ## 🚀 How to Play
 
